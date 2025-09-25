@@ -1,0 +1,7 @@
+banner https://res.cloudinary.com/dgz5jcnzj/image/upload/v1758791545/Screenshot_2025-09-25_143917_kb88i0.png
+
+products 1 https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_200/NI_CATALOG/IMAGES/CIW/2025/7/25/1abd8cd0-d5b0-434f-9f85-5b59b1f9fbe9_53UAG2RD0A.png
+
+product2 food  https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_200/NI_CATALOG/IMAGES/CIW/2025/9/19/1d02b229-f988-413a-bfb4-ba16aaea132f_7bd1dcf3-47bb-4db9-ba00-21ed735b05ee
+
+banner2 https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_800/MERCHANDISING_BANNERS/IMAGES/MERCH/2025/9/10/2436d307-5a79-4dd1-9ea1-59c8fcac76b2_Stripbanner328x61All2.png
